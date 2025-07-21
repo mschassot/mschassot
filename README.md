@@ -2,7 +2,7 @@
 
 ##
 <p align="center">
-  <i>Desenvolvedor Front-end | Estudante de Analise e Desenvolvimento de Sistemas |</i>
+  <i>Desenvolvedor Web | Estudante de Analise e Desenvolvimento de Sistemas |</i>
 </p>
 
 ##
