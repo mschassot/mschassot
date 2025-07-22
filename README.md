@@ -8,13 +8,6 @@
 ##
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mschassot&show_icons=true&theme=gotham" alt="Marcelo Schassot GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschassot&layout=compact&langs_count=7&theme=gotham" alt="Top Languages"/>
-</p>
-
-##
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,linux" alt="Tech Stack"/>
   </a>
