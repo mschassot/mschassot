@@ -1,4 +1,4 @@
-#### Marcelo Schassot
+### Marcelo Schassot
 
 ---
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-#### Tecnologias e Ferramentas 
+### Tecnologias e Ferramentas 
 
 <p align="center">
   <a href="https://skillicons.dev">
